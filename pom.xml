@@ -23,7 +23,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <spring-core.version>4.1.6.RELEASE</spring-core.version>
+        <spring-core.version>5.2.4.RELEASE</spring-core.version>
         <junit.version>4.11</junit.version>
         <joda-time.version>2.7</joda-time.version>
         <guava.version>18.0</guava.version>
